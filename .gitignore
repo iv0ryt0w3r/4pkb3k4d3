@@ -1,0 +1,45 @@
+########################
+# sails
+########################
+.rigging
+.sails
+.tmp
+.waterline
+dump.rdb
+ 
+########################
+# node.js / npm
+########################
+*.csv
+*.dat
+*.gz
+*.log
+*.out
+*.pid
+*.seed
+.grunt
+bower_components
+build/Release
+lib-cov
+logs
+pids
+node_modules
+npm-debug.log
+results
+ 
+########################
+# misc / editors
+########################
+*~
+*#
+.DS_STORE
+.netbeans
+nbproject
+.idea
+.node_history
+ 
+########################
+# local config
+########################
+config/local.js
+
