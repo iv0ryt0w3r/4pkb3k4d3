@@ -1,8 +1,8 @@
 {
   "name": "apkbkd",
   "private": true,
-  "version": "0.0.0",
-  "description": "a Sails application",
+  "version": "1.0.0",
+  "description": "4pkb3k4d3",
   "keywords": [],
   "dependencies": {
     "sails": "~0.10.3",
@@ -30,8 +30,8 @@
   "main": "app.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/bayu/apkbkd.git"
+    "url": "git://github.com/iv0ryt0w3r/4pkb3k4d3.git"
   },
-  "author": "bayu",
+  "author": "iv0ryt0w3r@yahoo.com",
   "license": ""
 }
